@@ -5,5 +5,7 @@ passionate Information Science graduate with a knack for problem-solving and bui
 🌟 **About Me**:
 - 🎓 graduate in Information Science Engineering.
 - 💻 Interested in [web development, Software Engineer, or Java Developer].
-- 🌱 Currently learning [React, SpringBoot, Django].
+- 🌱 I’m currently learning **Spring, React.js, Django**  
+- 📧 How to reach me: **mohammedaiman2001@gmail.com**  
+- 📞 Contact: **8722552732**  
 
