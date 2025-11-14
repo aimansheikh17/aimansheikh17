@@ -7,6 +7,6 @@ passionate Information Science graduate with a knack for problem-solving and bui
 - 💻 Interested in [web development, Software Engineer, or Java Developer].
 - 🌱 I’m currently learning **Spring, React.js, Django**  
 - 📧 How to reach me: **mohammedaiman2001@gmail.com**  
-- 📞 Contact: **8722552732**  
+- 📞 Contact: **+971 0508210**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-aiman-036005327)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aiman-2b839b377/)
